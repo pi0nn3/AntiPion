@@ -1,0 +1,13 @@
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\bin\Debug\AntiPion.exe.config
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\bin\Debug\AntiPion.exe
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\bin\Debug\AntiPion.pdb
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\obj\Debug\AntiPion.csproj.AssemblyReference.cache
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\obj\Debug\AntiPion.Properties.Resources.resources
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\obj\Debug\AntiPion.csproj.GenerateResource.cache
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\obj\Debug\AntiPion.csproj.CoreCompileInputs.cache
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\obj\Debug\AntiPion.exe
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\obj\Debug\AntiPion.pdb
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\obj\Debug\AntiPion.Form1.resources
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ciabu\source\repos\AntiPion\AntiPion\obj\Debug\AntiPion.csproj.Up2Date
